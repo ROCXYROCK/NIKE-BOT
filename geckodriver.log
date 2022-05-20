@@ -1,0 +1,188 @@
+1652971375468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3H6a9G"
+1652971375748	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3H6a9G/search.json.mozlz4", (void 0)))
+1652971376649	Marionette	INFO	Listening on port 35179
+1652971376688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652971440642	Marionette	INFO	Stopped listening on port 35179
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652971750164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile46y4YA"
+1652971750438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile46y4YA/search.json.mozlz4", (void 0)))
+1652971751304	Marionette	INFO	Listening on port 39411
+1652971751376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652971753069	Marionette	INFO	Stopped listening on port 39411
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652971772981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFIqRLL"
+1652971773259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFIqRLL/search.json.mozlz4", (void 0)))
+1652971774111	Marionette	INFO	Listening on port 34249
+1652971774191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1509:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:239:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:156:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:47:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:483:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:425:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+1652971836460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3gMe3K"
+1652971836730	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3gMe3K/search.json.mozlz4", (void 0)))
+1652971837559	Marionette	INFO	Listening on port 44723
+1652971837583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1652971846216	Marionette	INFO	Stopped listening on port 44723
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652971876832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexpX1wH"
+1652971877094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexpX1wH/search.json.mozlz4", (void 0)))
+1652971877994	Marionette	INFO	Listening on port 34679
+1652971878043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+1652971895849	Marionette	INFO	Stopped listening on port 34679
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652971927164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletgayUc"
+1652971927426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletgayUc/search.json.mozlz4", (void 0)))
+1652971928254	Marionette	INFO	Listening on port 35651
+1652971928276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+1652971942859	Marionette	INFO	Stopped listening on port 35651
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+1652972042981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8bhRb9"
+1652972043252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8bhRb9/search.json.mozlz4", (void 0)))
+1652972044085	Marionette	INFO	Listening on port 34519
+1652972044192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+1652972061125	Marionette	INFO	Stopped listening on port 34519
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652972094213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebQkUxh"
+1652972094484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebQkUxh/search.json.mozlz4", (void 0)))
+1652972095338	Marionette	INFO	Listening on port 45725
+1652972095424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+JavaScript error: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: TypeError: KZ is undefined
+1652972114324	Marionette	INFO	Stopped listening on port 45725
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652972136160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVv4H9J"
+1652972136427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVv4H9J/search.json.mozlz4", (void 0)))
+1652972137277	Marionette	INFO	Listening on port 39669
+1652972137375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1509:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:239:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:156:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:47:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:483:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:425:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+1652972171240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaYlxlD"
+1652972171504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaYlxlD/search.json.mozlz4", (void 0)))
+1652972172374	Marionette	INFO	Listening on port 40903
+1652972172451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1509:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:239:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:156:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:47:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:483:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:425:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:;'
+1652972232637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileroCKgZ"
+1652972232906	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileroCKgZ/search.json.mozlz4", (void 0)))
+1652972233770	Marionette	INFO	Listening on port 39665
+1652972233847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+1652972262891	Marionette	INFO	Stopped listening on port 39665
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652972270681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelHbm9E"
+1652972270956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelHbm9E/search.json.mozlz4", (void 0)))
+1652972271826	Marionette	INFO	Listening on port 44667
+1652972271892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nike.com/T1gP/rLIT/o-URl/lac1A/YNaucLrVi9/PxVSYg/GHlFGR/5xVUk, line 1: unreachable code after return statement
+1652972409560	Marionette	INFO	Stopped listening on port 34249
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652972412450	Marionette	INFO	Stopped listening on port 44667
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652972414972	Marionette	INFO	Stopped listening on port 40903
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1652973128477	Marionette	INFO	Stopped listening on port 39669
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
